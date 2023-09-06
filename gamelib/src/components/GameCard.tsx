@@ -10,7 +10,7 @@ function GameCard(props: GameCardProps) {
   return (
     <div className='gameCard'>
     <Card style={{ width: '18rem' }}>
-        <Card.Img variant="top" src="https://via.placeholder.com/150" />
+        <Card.Img variant="top" src={image} />
         <Card.Body>
             <Card.Title>{title}</Card.Title>
             <Card.Text>

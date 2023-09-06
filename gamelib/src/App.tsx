@@ -13,6 +13,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
 
+
       <div className='gameCardContainer'>
       {games.map((gameData, index) => (
           <GameCard
@@ -23,7 +24,6 @@ function App() {
             link={gameData.link} // Make sure 'link' is present in your JSON data or handle it appropriately if it's optional
           />
         ))}
-
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
