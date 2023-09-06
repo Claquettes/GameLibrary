@@ -13,6 +13,7 @@ function GameCard(props: GameCardProps) {
   //to build them dynamically, we use props
   const { title, description, image, link } = props;
   return (
+    <div className='gameCard'>
     <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src="https://via.placeholder.com/150" />
         <Card.Body>
@@ -23,7 +24,7 @@ function GameCard(props: GameCardProps) {
             <Button variant="primary">Go somewhere</Button>
         </Card.Body>
     </Card>
-        
+    </div>
   );
 }
 
