@@ -41,6 +41,8 @@
   color: #888;
 }
 
+
+
 .gameCard :hover {
   transform: scale(1.1);
   transition: transform 0.5s;
@@ -59,4 +61,10 @@
 
 .gameCard{
   background-color: #646cffaa;
+  margin-left: 0.5rem;
+  margin-right: 0.5 rem;
+  margin-bottom: 0.5rem;
+  border-radius: 2rem;
 }
+
+

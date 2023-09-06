@@ -2,7 +2,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import GameCardProps from '../interface/GameCardProps';
 
-
+import '../styles/GameCard.css';
 function GameCard(props: GameCardProps) {
   
   //to build them dynamically, we use props

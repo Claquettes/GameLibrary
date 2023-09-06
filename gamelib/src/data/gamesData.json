@@ -16,28 +16,28 @@
         {
             "title": "Tetris",
             "description": "Tetris is a tile-matching puzzle video game originally designed and programmed by Soviet Russian software engineer Alexey Pajitnov.",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Tetris_box_art.jpg/220px-Tetris_box_art.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Emacs_Tetris_vector_based_detail.svg/220px-Emacs_Tetris_vector_based_detail.svg.png",
             "link": "google.com"
 
         },
         {
             "title": "The Legend of Zelda",
             "description": "The Legend of Zelda is an action-adventure video game franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka.",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/The_Legend_of_Zelda_cover.png/220px-The_Legend_of_Zelda_cover.png",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zelda_Logo.svg/langfr-260px-Zelda_Logo.svg.png",
             "link": "google.com"
 
         },
         {
             "title": "Duck Hunt",
             "description": "Duck Hunt is a light gun shooter video game developed and published by Nintendo for the Nintendo Entertainment System video game console.",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Duck_Hunt.png/220px-Duck_Hunt.png",
+            "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Duck_Hunt_Logo.png/220px-Duck_Hunt_Logo.png",
             "link": "google.com"
 
         },
         {
             "title": "Donkey Kong",
             "description": "Donkey Kong is an arcade game released by Nintendo in 1981. An early example of the platform game genre, the gameplay focuses on maneuvering the main character across a series of platforms while dodging and jumping over obstacles.",
-            "image": "https://static.wikia.nocookie.net/heros/images/5/5c/Donkey_Kong.png/revision/latest?cb=20210409222715&path-prefix=fr",
+            "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Donkey_Kong_%281981%29_Logo.png/220px-Donkey_Kong_%281981%29_Logo.png",
             "link": "google.com"
         }
     ]
