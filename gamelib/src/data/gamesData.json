@@ -1,0 +1,46 @@
+{
+    "games": [
+        {
+            "title": "Pacman",
+            "description": "Pac-Man is an action maze chase video game; the player controls the eponymous character through an enclosed maze.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Pac-man.png/220px-Pac-man.png",
+            "link": "google.com"
+                    
+        },
+        {
+            "title": "Super Mario Bros",
+            "description": "Super Mario Bros. is a platform video game developed and published by Nintendo. The successor to the 1983 arcade game, Mario Bros., and the first in the Super Mario series of platformers.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Super_Mario_Bros._box.png/220px-Super_Mario_Bros._box.png",
+            "link": "google.com"
+        },
+        {
+            "title": "Tetris",
+            "description": "Tetris is a tile-matching puzzle video game originally designed and programmed by Soviet Russian software engineer Alexey Pajitnov.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Tetris_box_art.jpg/220px-Tetris_box_art.jpg",
+            "link": "google.com"
+
+        },
+        {
+            "title": "The Legend of Zelda",
+            "description": "The Legend of Zelda is an action-adventure video game franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/The_Legend_of_Zelda_cover.png/220px-The_Legend_of_Zelda_cover.png",
+            "link": "google.com"
+
+        },
+        {
+            "title": "Duck Hunt",
+            "description": "Duck Hunt is a light gun shooter video game developed and published by Nintendo for the Nintendo Entertainment System video game console.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Duck_Hunt.png/220px-Duck_Hunt.png",
+            "link": "google.com"
+
+        },
+        {
+            "title": "Donkey Kong",
+            "description": "Donkey Kong is an arcade game released by Nintendo in 1981. An early example of the platform game genre, the gameplay focuses on maneuvering the main character across a series of platforms while dodging and jumping over obstacles.",
+            "image": "https://static.wikia.nocookie.net/heros/images/5/5c/Donkey_Kong.png/revision/latest?cb=20210409222715&path-prefix=fr",
+            "link": "google.com"
+        }
+    ]
+}
+
+        

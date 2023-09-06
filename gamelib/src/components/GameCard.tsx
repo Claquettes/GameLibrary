@@ -1,12 +1,7 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import GameCardProps from '../interface/GameCardProps';
 
-interface GameCardProps {
-    title: string;
-    description: string;
-    image: string;
-    link: string;
-}
 
 function GameCard(props: GameCardProps) {
   
