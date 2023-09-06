@@ -1,7 +1,6 @@
 import './App.css';
 import GameCard from './components/GameCard';
 import * as gamesData from './data/gamesData.json';
-import GameCardProps from './interface/GameCardProps';
 
 function App() {
   const games = gamesData.games;
@@ -11,8 +10,6 @@ function App() {
       <div>
         <h1>Welcome To GameLib</h1>
       </div>
-      <h1>Vite + React</h1>
-
 
       <div className='gameCardContainer'>
       {games.map((gameData, index) => (
